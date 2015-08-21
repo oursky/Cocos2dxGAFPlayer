@@ -602,6 +602,11 @@
 					"$(CCX_ROOT2)/cocos/math",
 					"$(CCX_ROOT2)/cocos/platform/ios",
 					"$(CCX_ROOT2)/external/",
+					"\"$(SRCROOT)/../../cocos2d/cocos\"",
+					"\"$(SRCROOT)/../../cocos2d/cocos/2d\"",
+					"\"$(SRCROOT)/../../cocos2d/cocos/math\"",
+					"\"$(SRCROOT)/../../cocos2d/cocos/platform/ios\"",
+					"\"$(SRCROOT)/../../cocos2d/external\"",
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				ONLY_ACTIVE_ARCH = NO;
@@ -662,6 +667,11 @@
 					"$(CCX_ROOT2)/cocos/math",
 					"$(CCX_ROOT2)/cocos/platform/ios",
 					"$(CCX_ROOT2)/external/",
+					"\"$(SRCROOT)/../../cocos2d/cocos\"",
+					"\"$(SRCROOT)/../../cocos2d/cocos/2d\"",
+					"\"$(SRCROOT)/../../cocos2d/cocos/math\"",
+					"\"$(SRCROOT)/../../cocos2d/cocos/platform/ios\"",
+					"\"$(SRCROOT)/../../cocos2d/external\"",
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				OTHER_LDFLAGS = "-ObjC";
