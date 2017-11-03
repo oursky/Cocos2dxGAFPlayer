@@ -348,7 +348,7 @@ void GAFSprite::customDraw(cocos2d::Mat4& transform)
     }
     else
     {
-        cocos2d::GL::bindTexture2D(0);
+        cocos2d::GL::bindTexture2D((GLuint) 0);
     }
 
     //
